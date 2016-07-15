@@ -1,0 +1,16 @@
+.settings/
+.metadata/
+target/
+output/
+.idea/
+.project
+.classpath
+*.pid
+*.class
+*.iml
+disconf/
+/resource-mis/.externalToolBuilders/org.eclipse.wst.jsdt.core.javascriptValidator.launch
+/resource-mis/.gitignore
+.settings
+.DS_Store
+sonar-project.properties
